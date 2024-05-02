@@ -1,6 +1,6 @@
 # JapVision APP
 
-![JapVision Logo.png](public/logo.png)
+![JapVision Logo.png](public/favicon.png)
 
 
 Una aplicacion hecha en react native para personas con discapacidad visual, haciendo uso de la API de inteligencia artificial de Google "Gemini".
